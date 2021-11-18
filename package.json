@@ -2,7 +2,7 @@
   "name": "pokeman",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://anshupal667.github.io/webpage",
+  "homepage":"https://anshupal667.github.io/demotemplate",
   
   "dependencies": {
     "@material-ui/core": "^4.12.3",
